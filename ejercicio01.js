@@ -1,6 +1,4 @@
 function obtenerNombre() {
-    const nombre = "Adrian Flores";
+    const nombre = "Adrián Flores";
     return nombre;
 }
-
-module.exports = { obtenerNombre };
